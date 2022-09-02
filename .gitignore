@@ -1,3 +1,9 @@
+# Ignore folder
+.ignore
+
+# JetBrains
+.idea
+
 # Logs
 logs
 *.log

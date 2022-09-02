@@ -1,0 +1,22 @@
+{
+  "name": "template--fastify",
+  "version": "1.0.0",
+  "description": "Template for a Fastify-based app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/offscriptdev/template--fastify.git"
+  },
+  "author": "Andrew Craig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/offscriptdev/template--fastify/issues"
+  },
+  "homepage": "https://github.com/offscriptdev/template--fastify#readme",
+  "dependencies": {
+    "fastify": "^4.5.3"
+  }
+}
