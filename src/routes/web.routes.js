@@ -1,4 +1,4 @@
-import {sendReply} from "../controllers/web.controllers.js";
+import { sendReply } from "../controllers/web.controllers.js";
 
 // Response Schema
 const Response = {
